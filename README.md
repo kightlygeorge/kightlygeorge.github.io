@@ -1,1 +1,1 @@
-Website for naming java packages.
+Website for naming Java packages.
